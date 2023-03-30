@@ -1,0 +1,14 @@
+.planet-class {
+  transition: transform 0.3s ease;
+  width: 200px;
+}
+
+.planet-class:hover {
+  transform: scale(1.2);
+}
+
+.solar-system-section {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}

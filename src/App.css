@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-image: url('./images/background.png');
+}
+
+.main-section {
+  color: white;
+}
+
